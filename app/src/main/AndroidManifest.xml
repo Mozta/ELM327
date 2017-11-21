@@ -16,7 +16,7 @@
         android:theme="@style/AppTheme" >
 
         <activity
-            android:name="com.gasomovil.idit.elm327.MainActivity"
+            android:name="com.idit.elm327.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
