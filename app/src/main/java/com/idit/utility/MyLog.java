@@ -1,8 +1,5 @@
 package com.idit.utility;
 
-/**
- * Created by admin on 12/29/14
- */
 public class MyLog
 {
     private static boolean LOG = true;

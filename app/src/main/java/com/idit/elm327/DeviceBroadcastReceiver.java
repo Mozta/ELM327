@@ -8,9 +8,6 @@ import android.util.Log;
 
 import de.greenrobot.event.EventBus;
 
-/**
- * Created by admin on 12/15/14
- */
 public class DeviceBroadcastReceiver extends BroadcastReceiver
 {
     private static final String TAG = "DeviceBroadcastReceiver";

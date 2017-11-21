@@ -16,9 +16,6 @@ import android.widget.ListView;
 import com.idit.adapter.PairedListAdapter;
 import com.idit.elm327.R;
 
-/**
- * Created by admin on 12/12/14
- */
 public class PairedDevicesDialog extends DialogFragment
 {
     public interface PairedDeviceDialogListener
